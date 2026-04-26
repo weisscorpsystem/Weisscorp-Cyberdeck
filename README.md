@@ -30,8 +30,8 @@ A field-ready portable terminal enclosure (cyberdeck) optimized for mobile opera
 5. Install keycaps onto the tactile switch matrix.
 6. Mate the shells and secure via 4x M2.5 fasteners.
 
+<img width="1487" height="1487" alt="1" src="https://github.com/user-attachments/assets/839177c6-8c0f-4260-8ba9-292a40481bff" />
 <img width="1602" height="1602" alt="4" src="https://github.com/user-attachments/assets/fd22d2bc-8f8c-4278-b262-2f7fbceda129" />
 <img width="1585" height="1585" alt="3" src="https://github.com/user-attachments/assets/7765e4a0-0696-47f2-b659-4dc73fedd13a" />
 <img width="1568" height="1568" alt="2" src="https://github.com/user-attachments/assets/a0b11dd1-fa8e-4b6a-a18b-825dc927a543" />
-<img width="1487" height="1487" alt="1" src="https://github.com/user-attachments/assets/839177c6-8c0f-4260-8ba9-292a40481bff" />
 
